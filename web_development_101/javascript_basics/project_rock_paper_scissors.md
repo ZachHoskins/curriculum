@@ -40,7 +40,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
-- [cbhaugen's solution](https://github.com/cbhaugen/RockPaperScissors.git)
+- [ZachHoskins' Solution](https://github.com/ZachHoskins/rock-paper-scissors) - [View in Browser](https://zachhoskins.github.io/rock-paper-scissors)
 - [William Bowen's solution](https://github.com/WillWBowen/rock-paper-scissors)
 - [Patrick Silvestre's solution](https://github.com/pjsilvestre/top-rock-paper-scissors)
 - [Nahabwe's solution](https://github.com/musicmeetscode/rock-paper-scissor)
@@ -82,7 +82,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Ukeje Michgolden's solution](https://github.com/mikenath223/project_rock_paper_scissors) - [View in Browser](https://mikenath223.github.io/project_rock_paper_scissors/)
 - [Carlos 'Bauer' Rocha's solution](https://github.com/CarlosRenan/rock-paper-scissors)
 - [Ukeje Michgolden's solution](https://github.com/mikenath223/Rock-Paper-Scissors-game-Console-based) -[View in browser](https://mikenath223.github.io/Rock-Paper-Scissors-game-Console-based/)
-- [JeremyBeyond's solution](https://github.com/ugSh7hbY/rock-paper-scissor) - [View in Browser](https://ugsh7hby.github.io/rock-paper-scissor/)
+- [JeremyBeyond's solution](https://github.com/ugSh7hbY/rock-paper-scissor) - [View in Browser](https://ugsh7hby.github.io/rock-paper-scissor/) 
 - [Chris M's solution](https://github.com/chris-mahmood/rock-paper-scissors) - [View in Browser](https://chris-mahmood.github.io/rock-paper-scissors/)
 - [Joe the Code Monkey's solution](https://github.com/JoeTheCodeMonkey/jtcm_rock_paper_scissors)
 - [Nikola Jovanovic's solution](https://github.com/nikola1912/rock-paper-scissors) - [View in Browser](https://nikola1912.github.io/rock-paper-scissors/)
@@ -155,7 +155,6 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [CoderOO7 solution (with GUI)](https://github.com/coderoo7/rockPaperScissor) - [View in Browser](https://coderoo7.github.io/rockPaperScissor)
 - [Craig T's solution](https://github.com/ctomberg/Rock-Paper-Scissors) - [View in Browser](https://ctomberg.github.io/Rock-Paper-Scissors/)
 - [Jeffrey's solution](https://github.com/Jeffreyvdk/rock_paper_scissors)
-- [ZachHoskins' solution](https://github.com/ZachHoskins/rock-paper-scissors)
 - [Az's soultion (console)](https://github.com/AztecianDev/RockPaperScissors) - [View in Browser](https://azteciandev.github.io/RockPaperScissors/)
 - [Brian's solution (with GUI)](https://github.com/briantuju/odinProject/tree/master/rps-game) - [View in Browser](https://briantuju.github.io/odinProject/rps-game/index.html)
 - [Vera' Solution](https://github.com/overaaloe/rock_paper_scissors) - [View in Browser](https://overaaloe.github.io/rock_paper_scissors/)
@@ -897,9 +896,10 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [DalandanJuice's Console Solution](https://github.com/DalandanJuice/rock-paper-scissors) - [View in Browser](https://dalandanjuice.github.io/rock-paper-scissors/)
 - [Vorelli's Solution](https://github.com/Vorelli/rock-paper-scissors) - [View in Browser](https://vorelli.github.io/rock-paper-scissors/)
 - [Hyperturing's Solution](https://github.com/hyperturing/TOP-RockPaperScissors) - [View in Browser](https://github.com/hyperturing/TOP-RockPaperScissors)
-- [Dominic H's Solution](https://github.com/dowo13/Finished-Rock-Paper-Scissors) - [View in Browser](https://dowo13.github.io/Finished-Rock-Paper-Scissors/)
-- [Sam Akers' Solution](https://github.com/samakers/rock-paper-scissors)
+- [Dominic's solution](https://github.com/dowo13/Finished-Rock-Paper-Scissors.git) - [View in Browser](https://dowo13.github.io/Finished-Rock-Paper-Scissors/)
+- [Sam Akers' Solution](https://github.com/samakers/rock-paper-scissors) 
 - [MrkH615's Console Solution](https://github.com/MrkH615/RockPaperScissors)
-- [Gandolf's Solution](https://github.com/gandolfthewise/Rock-Paper_Scissors)
-- [Udit's Solution (uditj97)](https://github.com/uditj97/rock-paper-scissor)
+- [Udit's Solution (uditj97)] (https://github.com/uditj97/rock-paper-scissor)
 </details>
+- [Dominic H solution](https://github.com/dowo13/Finished-Rock-Paper-Scissors) - [View in Browser](https://dowo13.github.io/Finished-Rock-Paper-Scissors/)
+
